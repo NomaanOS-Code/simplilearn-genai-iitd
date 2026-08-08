@@ -6,8 +6,9 @@
 
 ---
 
-## 📄 Capstone Project Specification
-* **Document:** [`CAPSTONE_PROPOSAL.md`](./CAPSTONE_PROPOSAL.md) — *NomaanOS Shield: Autonomous Edge Security & Threat Triaging via Local GenAI Agents*
+## 📊 Executive Presentation & Capstone Specs
+* **Pitch Deck:** [`EXECUTIVE_PITCH_DECK.md`](./EXECUTIVE_PITCH_DECK.md) — *7-Slide Executive Pitch Deck for IHFC IIT Delhi Incubation*
+* **Capstone Proposal:** [`CAPSTONE_PROPOSAL.md`](./CAPSTONE_PROPOSAL.md) — *NomaanOS Shield: Autonomous Edge Security & Threat Triaging*
 
 ---
 
@@ -26,6 +27,7 @@
 - [x] **`06_vector_similarity_rag_engine.py`** — Vector Cosine Similarity & Context Injection RAG Engine
 - [x] **`07_agentic_ai_orchestrator.py`** — Autonomous ReAct Agent Framework (Reasoning + Tool Orchestration)
 - [x] **`08_capstone_proposal_spec.py`** — Capstone Project Architecture & Markdown Proposal Generator
+- [x] **`09_executive_pitch_deck_generator.py`** — IHFC IIT Delhi 7-Slide Pitch Deck Generator
 
 ---
 *Maintained & Version-Controlled via iPadOS iSH Environment.*
