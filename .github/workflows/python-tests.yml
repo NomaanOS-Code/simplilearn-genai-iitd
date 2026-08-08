@@ -1,0 +1,22 @@
+name: NomaanOS GenAI Lab CI Engine
+
+on: [push]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Execute Laboratory Suite
+        run: |
+          python 01_data_science_basics.py
+          python 02_linear_regression_engine.py
+          python 03_knn_classification_engine.py
+          python 04_kmeans_clustering_engine.py
+          python 05_perceptron_neural_network.py
+          python 06_vector_similarity_rag_engine.py
+          python 07_agentic_ai_orchestrator.py
