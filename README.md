@@ -1,15 +1,19 @@
-# 🤖 Simplilearn & IHFC (IIT Delhi) - GenAI & ML Lab
+# 🤖 Simplilearn & IHFC (IIT Delhi) - GenAI & ML Lab Suite
 
 > **Scholar:** Nomaan Khan  
 > **Program:** Professional Certificate Program in Generative AI, Machine Learning & Intelligent Automation  
-> **Institution:** IHFC - Technology Innovation Hub of IIT Delhi x Simplilearn x Microsoft
+> **Institution:** IHFC - Technology Innovation Hub of IIT Delhi x Simplilearn x Microsoft  
 
 ---
 
-## 📚 Curriculum & Progress Tracks
-- [x] **Module 1:** Program Induction & Python Refresher with AI
-- [ ] **Module 2:** Applied Data Science with Python (NumPy, Pandas, EDA)
-- [ ] **Module 3:** Machine Learning (Supervised, Unsupervised, Ensembles)
-- [ ] **Module 4:** Deep Learning (TensorFlow, PyTorch, CNNs, RNNs)
-- [ ] **Module 5:** Generative AI, RAG & LangChain Architectures
-- [ ] **Module 6:** Capstone Project & AI Impact Lab
+## 📚 Completed Laboratory Engines
+
+- [x] **`01_data_science_basics.py`** — Native Data Analysis & Progress Tracker Engine
+- [x] **`02_linear_regression_engine.py`** — Pure Math Linear Regression ($R^2 = 98.81\%$)
+- [x] **`03_knn_classification_engine.py`** — Euclidean Distance K-Nearest Neighbors Threat Classifier
+- [x] **`04_kmeans_clustering_engine.py`** — Unsupervised K-Means Anomaly & Resource Clustering Engine
+- [x] **`05_perceptron_neural_network.py`** — Single Neuron Neural Network with Backpropagation & Sigmoid Activation
+- [x] **`06_vector_similarity_rag_engine.py`** — Vector Cosine Similarity & Context Injection RAG Engine
+
+---
+*Maintained & Version-Controlled via iPadOS iSH Environment.*
