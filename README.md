@@ -6,6 +6,11 @@
 
 ---
 
+## 📄 Capstone Project Specification
+* **Document:** [`CAPSTONE_PROPOSAL.md`](./CAPSTONE_PROPOSAL.md) — *NomaanOS Shield: Autonomous Edge Security & Threat Triaging via Local GenAI Agents*
+
+---
+
 ## ⚙️ Automated CI/CD Engine
 * **GitHub Actions Workflow:** `.github/workflows/python-tests.yml` (Automated regression testing on every `push`)
 
@@ -20,6 +25,7 @@
 - [x] **`05_perceptron_neural_network.py`** — Single Neuron Neural Network with Backpropagation & Sigmoid Activation
 - [x] **`06_vector_similarity_rag_engine.py`** — Vector Cosine Similarity & Context Injection RAG Engine
 - [x] **`07_agentic_ai_orchestrator.py`** — Autonomous ReAct Agent Framework (Reasoning + Tool Orchestration)
+- [x] **`08_capstone_proposal_spec.py`** — Capstone Project Architecture & Markdown Proposal Generator
 
 ---
 *Maintained & Version-Controlled via iPadOS iSH Environment.*
