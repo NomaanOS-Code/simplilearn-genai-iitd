@@ -6,6 +6,11 @@
 
 ---
 
+## 🖥️ Live Visual SOC Monitor
+* **Dashboard Deployment:** [`NomaanOS Shield SOC Monitor`](https://nomaanos-production-dashboard.vercel.app/) — *Visual interface for real-time Edge Threat Metrics.*
+
+---
+
 ## 📊 Executive Presentation & Capstone Specs
 * **Pitch Deck:** [`EXECUTIVE_PITCH_DECK.md`](./EXECUTIVE_PITCH_DECK.md) — *7-Slide Executive Pitch Deck for IHFC IIT Delhi Incubation*
 * **Capstone Proposal:** [`CAPSTONE_PROPOSAL.md`](./CAPSTONE_PROPOSAL.md) — *NomaanOS Shield: Autonomous Edge Security & Threat Triaging*
